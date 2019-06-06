@@ -41,4 +41,4 @@ public class PascalTriangle {
         return stringBuilder.toString();
     }
     
-}
+}//pascal
