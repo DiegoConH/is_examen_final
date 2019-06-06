@@ -95,4 +95,4 @@ public class PascalTriangleTest {
         // then
         assertEquals("TEST #5 FAILED!!!", expectedResult, actualResult);
     }
-}
+} //commit
